@@ -10,7 +10,7 @@ Como se puede apreciar en la siguiente foto, los cables del conector no están c
 
 El _orden Escornabot_ para las conexiones en el conector de los motores paso a paso es la siguiente:
 
-__Orden correcto__ (de derecha a izquierda): Rosa(P), Azúl(B), Naranja(O), Amarillo(Y), Rojo(R).
+__Orden correcto__ (de izquierda a derecha): Rosa(P), Azúl(B), Naranja(O), Amarillo(Y), Rojo(R).
 
 Orden INCORRECTO (de derecha a izquierda): Azúl(B), Rosa(P), Amarillo(Y), Naranja(O), Rojo(R).
 
