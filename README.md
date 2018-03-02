@@ -13,7 +13,7 @@ Every document here, whether no other specified, is licensed under [Creative Com
  * [Cuando tu Escornabot anda raro (buggy steppers)][BUG01]
 
 
-[BUG01]: BuggyStepper
+[BUG01]: BuggyStepper/README.md
 [LIC01]: http://creativecommons.org/licenses/by-sa/4.0/
 [LOG01]: EscornabotLogo
 [TAD01]: ObradoiroDec2015_Xdesig
