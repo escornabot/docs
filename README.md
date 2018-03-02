@@ -10,8 +10,10 @@ Every document here, whether no other specified, is licensed under [Creative Com
 
  * [The Escornabot logo by Pablo Otero][LOG01]
  * [Obradoiro Decembro 2015 by Xdesig][TAD01] (gl)
+ * [Cuando tu Escornabot anda raro (buggy steppers)][BUG01]
 
 
+[BUG01]: BuggyStepper
 [LIC01]: http://creativecommons.org/licenses/by-sa/4.0/
 [LOG01]: EscornabotLogo
 [TAD01]: ObradoiroDec2015_Xdesig
