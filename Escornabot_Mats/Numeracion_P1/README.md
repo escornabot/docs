@@ -1,9 +1,9 @@
-<b>ACTIVIDAD 1: NÚMEROS DEL 1 AL 10</b><br/>
-Cada participante, por turnos, tira el dado y observa el resultado. Debe programar al escornabot para llegar a la casilla que tiene esa cantidad representada.<br/>
+##ACTIVIDAD 1: NÚMEROS DEL 1 AL 10
+Cada participante, por turnos, tira el dado y observa el resultado. Debe programar al escornabot para llegar a la casilla que tiene esa cantidad representada.
 
-<b>Materiales:</b><br/>
-Alfombrilla Números del 1 al 10.<br/>
-Dado con números del 1 al 10.<br/>
+#Materiales:
+* [Alfombrilla Números del 1 al 10][A110]
+* [Dado con números del 1 al 10][D110]
 
 <b>ACTIVIDAD 2: NÚMEROS DEL 11 AL 20</b><br/>
 Igual que en la anterior actividad, cada participante, por turnos, tira el dado y programa al escornabot para llegar a la casilla que tiene esa cantidad representada.<br/>
@@ -37,3 +37,6 @@ Alfombrilla Números del 11 al 20.<br/>
 Dado con números del 11 al 20<br/>
 Dado con números del 1 al 10<br/>
 Algunos garbanzos y material de apoyo a las operaciones con hueveras si es necesario.
+
+[A110]:mates1º.pdf
+[D110]: 	d10_110.stl
