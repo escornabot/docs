@@ -14,7 +14,7 @@
   </tr>
    
   <tr>
-    <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Numeracion_P1/mates1%C2%BA.pdf" </td>
+    <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Numeracion_P1/mates1%C2%BA.jpg" </td>
     <td>Numeración 1-20</td>
     <td>Matemáticas <br \> Numeración</td>
     <td>1º Primaria</td>
