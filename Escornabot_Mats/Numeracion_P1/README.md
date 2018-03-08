@@ -43,6 +43,6 @@ Igual que en la anterior actividad, cada participante, por turnos, tira los dado
 [A110]:mates1º.pdf
 [A1120]:mates1º_2.pdf
 [D1120]:d10_1120.stl
-[D10]:d10_110.stl
+[D110]:d10_110.stl
 [D610]:d10_610.stl
 [D59]:d10_59.stl
