@@ -46,3 +46,4 @@ Igual que en la anterior actividad, cada participante, por turnos, tira los dado
 [D110]:d10_110.stl
 [D610]:d10_610.stl
 [D59]:d10_59.stl
+[D15]:d10_15.stl
