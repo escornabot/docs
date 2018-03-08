@@ -25,7 +25,7 @@
   </tr>
   
    <tr>
-    <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/CuentaCuentos/cuentacuentos1.jpg" </td>
+    <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/ClasificacionTriangulos/ClasificacionTriangulos.jpg" </td>
     <td>Clasificación <br\>de triángulos</td>
     <td>Matemáticas <br \> Geometría</td>
     <td>4º Primaria</td>
@@ -36,7 +36,7 @@
   </tr>
   
   <tr>
-    <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/ClasificacionTriangulos/ClasificacionTriangulos.jpg" </td>
+    <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/CuentaCuentos/cuentacuentos1.jpg" </td>
     <td>CuentaCuentos</td>
     <td>Lenguaje <br \> Oral</td>
     <td>1 a 120</td>
