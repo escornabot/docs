@@ -11,4 +11,6 @@
 
 ## Material
 * Dado
-* Alfombrillas cuentos (se unen para hacer una alfombrilla doble)
+* Alfombrillas cuentos [1][1] y [2][2] (se unen para hacer una alfombrilla doble)
+[1]:cuentacuentos1.pdf
+[2]:cuentacuentos2.pdf
