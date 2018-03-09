@@ -14,6 +14,6 @@ Las alfombrillas se imprimen en un A3
 
 ## Material
 * Dado
-* Alfombrillas cuentos [uno][1] y [dos][2] (se unen para hacer una alfombrilla doble)
-[1]:cuentacuentos1.pdf
-[2]:cuentacuentos2.pdf
+* Alfombrillas cuentos [uno][a1] y [dos][a2] (se unen para hacer una alfombrilla doble)
+[a1]:cuentacuentos1.pdf
+[a2]:cuentacuentos2.pdf
