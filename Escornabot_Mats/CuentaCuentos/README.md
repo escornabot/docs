@@ -7,4 +7,8 @@
     * Se ejecuta el programa.
     * Un componente del equipo continúa el cuento incluyendo el elemento sobre el que terminó el escornabot antes de 30 segundos. Si no le da tiempo a enlazarlo adecuadamente, el equipo contrario tendrá 30 segundos para hacerlo. Si se hace correctamente se obtiene un punto.
     * Se cambia el turno.
-* El juego termina al llegar a la casilla Y colorín colorado. El equipo que lo consiga obtendrá 3 puntos.
+* El juego termina al llegar a la casilla Y colorín colorado. El equipo que lo consiga obtendrá 3 puntos,
+
+## Material
+* Dado
+* Alfombrillas cuentos (se unen para hacer una alfombrilla doble)
