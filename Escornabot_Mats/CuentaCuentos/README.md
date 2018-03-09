@@ -10,10 +10,11 @@
 * El juego termina al llegar a la casilla Y colorín colorado. El equipo que lo consiga obtendrá 3 puntos,
 
 ## Notas
-Las alfombrillas se imprimen en un A3
+Las alfombrillas se imprimen en A3 yse unen para hacer una alfombrilla doble
 
 ## Material
 * Dado
-* Alfombrillas cuentos [uno][A1] y [dos][A2] (se unen para hacer una alfombrilla doble)
-[A1]:cuentacuentos1.pdf
-[A2]:cuentacuentos2.pdf
+* Alfombrillas cuentos [Alfombrillas cuentos][AL1]
+[Alfombrillas cuentos 2][AL2] 
+[AL1]:cuentacuentos1.pdf
+[AL2]:cuentacuentos2.pdf
