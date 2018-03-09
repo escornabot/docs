@@ -46,4 +46,14 @@
     <td><a href="https://github.com/escornabot/docs/tree/master/Escornabot_Mats/CuentaCuentos">Enlace</a></td>
   </tr>
   
+   <tr>
+    <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/exploradores/Exploradores.jpg" </td>
+    <td>Escornabots<br \>Exploradores</td>
+    <td>Sociales-EF<br \> Brújula</td>
+    <td>>7 años</td>
+    <td>Castellano</td>
+    <td>@lobo_tic</td>
+    <td>CC BY-SA</td>
+    <td><a href="https://github.com/escornabot/docs/tree/master/Escornabot_Mats/exploradores">Enlace</a></td>
+  </tr>
   </table>
