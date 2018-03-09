@@ -9,8 +9,11 @@
     * Se cambia el turno.
 * El juego termina al llegar a la casilla Y colorín colorado. El equipo que lo consiga obtendrá 3 puntos,
 
+## Notas
+Las alfombrillas se imprimen en un A3
+
 ## Material
 * Dado
-* Alfombrillas cuentos [1][1] y [2][2] (se unen para hacer una alfombrilla doble)
+* Alfombrillas cuentos [uno][1] y [dos][2] (se unen para hacer una alfombrilla doble)
 [1]:cuentacuentos1.pdf
 [2]:cuentacuentos2.pdf
