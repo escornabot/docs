@@ -10,3 +10,11 @@
 ## NOTAS
 * Si el nombre tipo de triángulo que es según sus lados y el nombre de tipo de triángulo que es según sus ángulos están en la misma casilla, en el paso b. no se desplazará, sólo girará otros 360º
 * Si el recorrido se realiza correctamente, esa persona obtiene un punto.
+* La alfombrilla se imprime en un A3
+
+## MATERIAL
+* [Alfombrilla triángulos][AT]
+* [Tarjetas triángulos][TT]
+
+[AT]:ClasificacionTriangulos.pdf
+[TT]: 	tarjetastriangulos.pdf
