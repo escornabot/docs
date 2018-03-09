@@ -15,6 +15,7 @@ Las alfombrillas se imprimen en A3 yse unen para hacer una alfombrilla doble
 ## Material
 * Dado
 * Alfombrillas cuentos [Alfombrillas cuentos][AL1]
-[Alfombrillas cuentos 2][AL2] 
+[Alfombrillas cuentos 2][AL2]
+
 [AL1]:cuentacuentos1.pdf
 [AL2]:cuentacuentos2.pdf
