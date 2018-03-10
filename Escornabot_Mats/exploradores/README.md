@@ -7,12 +7,13 @@
 * Los recorridos van emparejados por letras (A1 y A2, B1 y B2…). Los recorridos son de dificultad creciente y en su pareja viene la solución.
 
 ## MATERIALES
-2 Escornabot
-2 Brújulas
-[Alfombrilla Exploradores][ALF]
-[Hojas de ruta][HDR]
+* 2 Escornabot
+* 2 Brújulas
+* [Alfombrilla Exploradores][ALF]
+* [Hojas de ruta][HDR]
 
 ## NOTAS
+En las hojas de ruta vienen más instrucciones de la actividad
 
 [ALF]:Exploradores.pdf
 [HDR]:Rutas Exploradores.pdf
