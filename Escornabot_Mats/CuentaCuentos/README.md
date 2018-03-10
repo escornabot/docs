@@ -13,6 +13,7 @@
 Las alfombrillas se imprimen en A3 yse unen para hacer una alfombrilla doble
 
 ## Material
+* Escornabot
 * Dado
 * [Alfombrilla cuentos][AL1]
 * [Alfombrillas cuentos 2][AL2]
