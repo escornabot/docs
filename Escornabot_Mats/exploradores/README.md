@@ -16,4 +16,4 @@
 En las hojas de ruta vienen más instrucciones de la actividad
 
 [ALF]:Exploradores.pdf
-[HDR]:Rutas Exploradores.pdf
+[HDR]:Rutas_Exploradores.pdf
