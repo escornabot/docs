@@ -56,4 +56,16 @@
     <td>CC BY-SA</td>
     <td><a href="https://github.com/escornabot/docs/tree/master/Escornabot_Mats/exploradores">Enlace</a></td>
   </tr>
+  
+  tr>
+    <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/SistemaSolar/Tablero-Sistema-Solar.png" </td>
+    <td>Sistema<br \>Solar</td>
+    <td>Naturales-EF<br \> Sistema Solar</td>
+    <td>>-</td>
+    <td>Castellano</td>
+    <td>@anlobarri</td>
+    <td>pendiente</td>
+    <td><a href="https://github.com/escornabot/docs/tree/master/Escornabot_Mats/SistemaSolar">Enlace</a></td>
+  </tr>
+  
   </table>
