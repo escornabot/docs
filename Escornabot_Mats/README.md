@@ -65,7 +65,7 @@
     <td>Castellano</td>
     <td>@anlobarri</td>
     <td>pendiente</td>
-    <td><a href="https://github.com/escornabot/docs/tree/master/Escornabot_Mats/exploradores">Enlace</a></td>
+    <td><a href="https://github.com/escornabot/docs/tree/7d76b736264dfd30299b1a441e639b18732bcc65/Escornabot_Mats/SistemaSolar">Enlace</a></td>
   </tr>
   
    
