@@ -16,7 +16,7 @@
   <tr>
     <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Numeracion_P1/mates1%C2%BA.jpg" </td>
     <td>Numeración 1-20</td>
-    <td>Matemáticas <br \> Numeración</td>
+    <td>Matemáticas <br/> Numeración</td>
     <td>1º Primaria</td>
     <td>Castellano</td>
     <td>@lobo_tic</td>
@@ -27,7 +27,7 @@
    <tr>
     <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/ClasificacionTriangulos/ClasificacionTriangulos.jpg" </td>
     <td>Clasificación <br\>de triángulos</td>
-    <td>Matemáticas <br \> Geometría</td>
+    <td>Matemáticas <br/> Geometría</td>
     <td>4º Primaria</td>
     <td>Castellano</td>
     <td>@lobo_tic</td>
@@ -38,7 +38,7 @@
   <tr>
     <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/CuentaCuentos/cuentacuentos1.jpg" </td>
     <td>CuentaCuentos</td>
-    <td>Lenguaje <br \> Oral</td>
+    <td>Lenguaje <br/> Oral</td>
     <td>1 a 120</td>
     <td>Castellano</td>
     <td>@lobo_tic</td>
@@ -48,8 +48,8 @@
   
    <tr>
     <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/exploradores/Exploradores.jpg" </td>
-    <td>Escornabots<br \>Exploradores</td>
-    <td>Sociales-EF<br \> Brújula</td>
+    <td>Escornabots<br/>Exploradores</td>
+    <td>Sociales-EF<br/> Brújula</td>
     <td>>7 años</td>
     <td>Castellano</td>
     <td>@lobo_tic</td>
@@ -59,9 +59,9 @@
   
   tr>
     <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/SistemaSolar/Tablero-Sistema-Solar.png" </td>
-    <td>Sistema<br \>Solar</td>
-    <td>Naturales<br \> Sistema Solar</td>
-    <td>-</td>
+    <td>Sistema<br/>Solar</td>
+    <td>Naturales<br/> Sistema Solar</td>
+    <td>---</td>
     <td>Castellano</td>
     <td>@anlobarri</td>
     <td>pendiente</td>
