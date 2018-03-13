@@ -1,6 +1,6 @@
 <b> Colección de alfombrillas para escornabot.</b> <br/>
 <b> Mats collection for escornabot.</b> 
-<br/>--en proceso--
+<br/>
 <table> 
    <tr>
     <th>IMAGEN</th>
