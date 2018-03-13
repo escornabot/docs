@@ -25,7 +25,7 @@
   </tr>
   
    <tr>
-    <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/ClasificacionTriangulos/ClasificacionTriangulos.jpg" </td>
+   <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Numeracion_P1/mates1%C2%BA.jpg" </td>
     <td>Clasificación <br\>de triángulos</td>
     <td>Matemáticas <br/> Geometría</td>
     <td>4º Primaria</td>
