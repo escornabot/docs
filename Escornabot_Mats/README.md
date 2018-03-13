@@ -58,7 +58,7 @@
   </tr>
   
   tr>
-    <td><td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Numeracion_P1/mates1%C2%BA.jpg" </td>
+    <td><td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/7d76b736264dfd30299b1a441e639b18732bcc65/Escornabot_Mats/SistemaSolar/Tablero-Sistema-Solar.png" </td>
     <td>Sistema<br/>Solar</td>
     <td>Naturales<br/> Sistema Solar</td>
     <td>---</td>
