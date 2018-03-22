@@ -11,7 +11,7 @@
     <th>ENLACE</th>
   </tr>
 <tr>
-    <td><img align="center" width="125" height="70" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/plantilla_hexagonos/hexagonos.png" </td>
+    <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/plantilla_hexagonos/hexagonos.png" </td>
     <td>Plantilla Hexágonos</td>
     <td>@juliopachecoa<br/>@lobo_tic</td>
     <td>CC BY-SA</td>
@@ -33,7 +33,7 @@
   </tr>
    
   <tr>
-    <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Numeracion_P1/mates1%C2%BA.jpg" </td>
+    <td><img align="center" width="125" height="70" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Numeracion_P1/mates1%C2%BA.jpg" </td>
     <td>Numeración 1-20</td>
     <td>Matemáticas <br/> Numeración</td>
     <td>1º Primaria</td>
