@@ -1,5 +1,5 @@
-<b> Colección de alfombrillas para escornabot.</b> <br/>
-<b> Mats collection for escornabot.</b> 
+<b> Colección de plantillas para escornabot.</b> <br/>
+<b> Mat templates collection for escornabot.</b> 
 <br/>
 
 <table> 
@@ -11,14 +11,15 @@
     <th>ENLACE</th>
   </tr>
 <tr>
-    <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/plantilla_hexagonos/hexagonos.png" </td>
+    <td><img align="center" width="125" height="70" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/plantilla_hexagonos/hexagonos.png" </td>
     <td>Plantilla Hexágonos</td>
     <td>@juliopachecoa<br/>@lobo_tic</td>
     <td>CC BY-SA</td>
     <td><a href="https://github.com/escornabot/docs/tree/master/Escornabot_Mats/plantilla_hexagonos">Enlace</a></td>
   </tr>
      </table>
-   
+<b> Colección de alfombrillas para escornabot.</b> <br/>
+<b> Mats collection for escornabot.</b> 
 <table> 
    <tr>
     <th>IMAGEN</th>
