@@ -61,10 +61,10 @@
     <td><img align="center" width="125" height="90" src="https://github.com/escornabot/docs/blob/7d76b736264dfd30299b1a441e639b18732bcc65/Escornabot_Mats/SistemaSolar/Tablero-Sistema-Solar.png" </td>
     <td>Sistema<br/>Solar</td>
     <td>Naturales<br/> Sistema Solar</td>
-    <td>---</td>
+    <td>>7 años</td>
     <td>Castellano</td>
     <td>@anlobarri</td>
-    <td>pendiente</td>
+    <td>CC BY-SA</td>
     <td><a href="https://github.com/escornabot/docs/tree/7d76b736264dfd30299b1a441e639b18732bcc65/Escornabot_Mats/SistemaSolar">Enlace</a></td>
   </tr>
   
