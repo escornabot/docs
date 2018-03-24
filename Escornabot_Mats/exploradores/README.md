@@ -1,5 +1,5 @@
 # Escornabots Exploradores
-<p align="center">
+<p align="left">
   <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/exploradores/Exploradores.jpg" width="250"/>
 </p>
 
