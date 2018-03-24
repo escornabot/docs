@@ -1,5 +1,9 @@
 # Numeración del 1 al 20
-
+<p align="left">
+  <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Numeracion_P1/mates1%C2%BA.jpg"/>
+  <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Numeracion_P1/mates1%C2%BA_2.pdf" width="250"/>
+<p>
+  
 ## ACTIVIDAD 1: NÚMEROS DEL 1 AL 10
 Cada participante, por turnos, tira el dado y observa el resultado. Debe programar al escornabot para llegar a la casilla que tiene esa cantidad representada.
 
