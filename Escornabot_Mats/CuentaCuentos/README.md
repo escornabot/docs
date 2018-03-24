@@ -1,9 +1,11 @@
 # CUENTACUENTOS
 <p align="left">
-  <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/CuentaCuentos/cuentacuentos1.jpg" width="250"/>
- <br\> <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/CuentaCuentos/cuentacuentos2.jpg" width="250"/>
+ <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/CuentaCuentos/cuentacuentos2.jpg" width="250"/>
 <p>
- 
+<p align="left">
+  <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/CuentaCuentos/cuentacuentos1.jpg" width="250"/>
+<p>
+  
 ## Instrucciones
 * El escornabot comienza en la casilla Érase una vez…
 * Una persona de cada equipo tira el dado. El equipo que obtenga mejor puntuación comienza el juego.
