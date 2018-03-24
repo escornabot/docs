@@ -10,8 +10,8 @@
 * Los recorridos van emparejados por letras (A1 y A2, B1 y B2…). Los recorridos son de dificultad creciente y en su pareja viene la solución.
 
 ## NOTAS
-En las hojas de ruta vienen más instrucciones de la actividad
-La alfombrilla se imprime en un A3
+* En las hojas de ruta vienen más instrucciones de la actividad
+* La alfombrilla se imprime en un A3
 
 ## MATERIALES
 * 2 Escornabot
