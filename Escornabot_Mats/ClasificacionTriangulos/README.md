@@ -2,6 +2,7 @@
 <p align="left">
   <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/ClasificacionTriangulos/ClasificacionTriangulos.jpg" width="250"/
 <p>
+  
 ## INSTRUCCIONES
 * Coger la primera carta del mazo y leer la descripción al contrincante.
 * El contrincante debe programar el escornabotpara...
