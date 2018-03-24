@@ -1,6 +1,6 @@
 # Numeración del 1 al 20
 <p align="left">
-  <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Numeracion_P1/mates1%C2%BA.jpg"/>
+  <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Numeracion_P1/mates1%C2%BA.jpg" width="250"/>
   <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Numeracion_P1/mates1%C2%BA_2.jpg" width="250"/>
 <p>
   
