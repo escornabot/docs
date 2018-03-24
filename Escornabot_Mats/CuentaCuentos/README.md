@@ -1,7 +1,7 @@
 # CUENTACUENTOS
 <p align="left">
-  <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/CuentaCuentos/cuentacuentos1.jpg" width="250"/
-  <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/CuentaCuentos/cuentacuentos2.jpg" width="250"/
+  <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/CuentaCuentos/cuentacuentos1.jpg" width="250"/>
+  <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/CuentaCuentos/cuentacuentos2.jpg" width="250"/>
 <p>
  
 ## Instrucciones
