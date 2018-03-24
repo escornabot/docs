@@ -88,7 +88,7 @@
   </tr>
   
    <tr>
-    <td><img align="center" width="125" height="70" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/isla_pirata/pirata_tarjetas.pdf" </td>
+    <td><img align="center" width="125" height="70" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/isla_pirata/pirata.png" </td>
     <td>Isla<br/>Pirata</td>
     <td>Orientación<br/> Espacial</td>
     <td>>5 años</td>
