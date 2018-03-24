@@ -87,5 +87,16 @@
     <td><a href="https://github.com/escornabot/docs/tree/7d76b736264dfd30299b1a441e639b18732bcc65/Escornabot_Mats/SistemaSolar">Enlace</a></td>
   </tr>
   
+   <tr>
+    <td><img align="center" width="125" height="70" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/isla_pirata/pirata_tarjetas.pdf" </td>
+    <td>Isla<br/>Pirata</td>
+    <td>Orientación<br/> Espacial</td>
+    <td>>5 años</td>
+    <td>Castellano</td>
+    <td>@lobo_tic</td>
+    <td>CC BY-SA</td>
+    <td><a href="https://github.com/escornabot/docs/tree/master/Escornabot_Mats/isla_pirata">Enlace</a></td>
+  </tr>
+  
    
   </table>
