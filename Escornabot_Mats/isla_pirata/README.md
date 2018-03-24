@@ -1,7 +1,8 @@
 # Isla Pirata
-<p align="left">
+<p align="centre">
   <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/isla_pirata/pirata.png" width="250"/
 </p>
+
 ## Instrucciones
 * En esta actividad programaremos un escornabot para realizar un recorrido predefinido sobre una alfombrilla.
 * Cada equipo, por turnos, tomará una tarjeta y deberá programar el robot para realice el recorrido indicado en ella.
