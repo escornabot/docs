@@ -102,7 +102,7 @@
     <td><img align="center" width="125" height="70" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/body_parts/bodyparts.png" </td>
     <td>Body<br/>Parts</td>
     <td>Science<br/> English</td>
-    <td>>1º Primaria</td>
+    <td>1º Primaria</td>
     <td>Castellano</td>
     <td>@lobo_tic</td>
     <td>CC BY-SA</td>
