@@ -19,7 +19,7 @@
 * [Alfombrilla Body PArts][S01]
 * Un escornabot
 
-## Materiales
+## Créditos
 * Ilustraciones obtenidas de la galería de Scratch 2.0 https://scratch.mit.edu/
 
 [S01]:https://scratch.mit.edu/projects/219120071/#player
