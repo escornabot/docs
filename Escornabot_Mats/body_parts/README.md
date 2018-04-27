@@ -1,6 +1,6 @@
 # Body Parts
 <p align="left">
-  <img src="https://https://github.com/escornabot/docs/blob/master/Escornabot_Mats/body_parts/bodyparts.png" width="250"/
+  <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/body_parts/bodyparts.png" width="250"/
 <p>
 
 ## Instrucciones
