@@ -108,5 +108,16 @@
     <td>CC BY-SA</td>
     <td><a href="https://github.com/escornabot/docs/tree/master/Escornabot_Mats/body_parts">Enlace</a></td>
   </tr>
+  
+   <tr>
+    <td><img align="center" width="125" height="70" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Assembly%20template/taboleiro_montaxe.pdf" </td>
+    <td>Assembly<br/>template</td>
+    <td>Montaje de<br/> Escornabot</td>
+    <td> --- </td>
+    <td> --- </td>
+    <td>@xdesig</td>
+    <td>CC BY-SA</td>
+    <td><a href="https://github.com/escornabot/docs/tree/master/Escornabot_Mats/Assembly%20template">Enlace</a></td>
+  </tr>
    
   </table>
