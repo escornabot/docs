@@ -110,7 +110,7 @@
   </tr>
   
    <tr>
-    <td><img align="center" width="125" height="70" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Assembly%20template/taboleiro_montaxe.pdf" </td>
+    <td><img align="center" width="125" height="70" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Assembly%20template/taboleiro_montaxe.png" </td>
     <td>Assembly<br/>template</td>
     <td>Montaje de<br/> Escornabot</td>
     <td> --- </td>
