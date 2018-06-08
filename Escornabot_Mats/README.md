@@ -11,7 +11,7 @@
     <th>ENLACE</th>
   </tr>
 <tr>
-    <td><img align="center" width="70" height="125" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/PlanillaCadrada/planillaCadrada.jpg" </td>
+    <td><img align="center" width="125" height="70" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/PlanillaCadrada/planillaCadrada.jpg" </td>
     <td>Planilla Cadrada</td>
     <td>@procastino</td>
     <td>CC BY</td>
