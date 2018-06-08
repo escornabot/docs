@@ -19,7 +19,7 @@
   </tr>
 
 <tr>
-    <td><img align="center" width="125" height="70" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/PlanillaCadrada/planillatriangular.jpg" </td>
+    <td><img align="center" width="125" height="70" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/PlanillaCadrada/planillaTriangular.jpg" </td>
     <td>Planilla Triangular</td>
     <td>@procastino</td>
     <td>CC BY</td>
