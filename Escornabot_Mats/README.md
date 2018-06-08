@@ -11,6 +11,13 @@
     <th>ENLACE</th>
   </tr>
 <tr>
+    <td><img align="center" width="70" height="125" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/PlanillaCadrada/planillaCadrada.jpg" </td>
+    <td>Planilla Cadrada</td>
+    <td>@procastino</td>
+    <td>CC BY</td>
+    <td><a href="https://github.com/escornabot/docs/tree/master/Escornabot_Mats/PlanillaCadrada">Enlace</a></td>
+  </tr>
+<tr>
     <td><img align="center" width="70" height="125" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/plantilla_hexagonos/hexagonos.png" </td>
     <td>Plantilla Hexágonos</td>
     <td>@juliopachecoa<br/>@lobo_tic</td>
