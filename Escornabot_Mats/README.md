@@ -119,5 +119,16 @@
     <td>CC BY-SA</td>
     <td><a href="https://github.com/escornabot/docs/tree/master/Escornabot_Mats/Assembly%20template">Enlace</a></td>
   </tr>
+  
+   <tr>
+    <td><img align="center" width="125" height="125" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Sentidos/Completo_sentidos.png" </td>
+    <td>Sentidos</td>
+    <td>Ciencias<br/>Naturales</td>
+    <td> >4 años </td>
+    <td> --- </td>
+    <td>@adiazreb</td>
+    <td>CC BY</td>
+    <td><a href="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Sentidos">Enlace</a></td>
+  </tr>
    
   </table>
