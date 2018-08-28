@@ -137,7 +137,7 @@
   </tr>
   
    <tr>
-    <td><img align="center" width="125" height="125" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Sentidos/Completo_sentidos.png" </td>
+    <td><img align="center" width="100" height="100" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Sentidos/Completo_sentidos.png" </td>
     <td>Sentidos</td>
     <td>Ciencias<br/>Naturales</td>
     <td> >4 años </td>
@@ -153,7 +153,7 @@
     <td> > --- </td>
     <td> --- </td>
     <td>@pepegragera</td>
-    <td>CC BY NC</td>
+    <td>CC BY-NC</td>
     <td><a href="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Alfabeto">Enlace</a></td>
   </tr> 
    
