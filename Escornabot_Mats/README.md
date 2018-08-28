@@ -147,7 +147,7 @@
     <td><a href="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Sentidos">Enlace</a></td>
   </tr>
   <tr>
-    <td><img align="center" width="125" height="50" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Alfabeto/alfabeto.png" </td>
+    <td><img align="center" width="70" height="125" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Alfabeto/alfabeto.png" </td>
     <td>Alfabeto</td>
     <td>Lengua</td>
     <td> > --- </td>
