@@ -150,11 +150,22 @@
     <td><img align="center" width="70" height="125" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Alfabeto/alfabeto.png" </td>
     <td>Alfabeto</td>
     <td>Lengua</td>
-    <td> > --- </td>
     <td> --- </td>
+    <td> Castellano </td>
     <td>@pepegragera</td>
     <td>CC BY-NC</td>
     <td><a href="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/Alfabeto">Enlace</a></td>
   </tr> 
-   
+ 
+   <tr>
+    <td><img align="center" width="70" height="70" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/SSolar/SSolar.jpg" </td>
+    <td>Sistema<br/>Solar</td>
+    <td>C. Sociales<br/>C. Naturales</td>
+    <td> > --- </td>
+    <td> Castellano </td>
+    <td>@lobo_tic</td>
+    <td>CC BY-SA</td>
+    <td><a href="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/SSolar">Enlace</a></td>
+  </tr> 
+ 
   </table>
