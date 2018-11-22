@@ -175,7 +175,7 @@
     <td> > --- </td>
     <td> Castellano </td>
     <td>@almupaleo</td>
-    <td>CC BY-SA</td>
+    <td>CC BY-NC-ND</td>
     <td><a href="https://github.com/escornabot/docs/tree/master/Escornabot_Mats/escornaoca">Enlace</a></td>
   </tr> 
   </table>
