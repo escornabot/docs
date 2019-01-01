@@ -2,9 +2,7 @@
 <p align="left">
   <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/3cerditos/3cerditos.jpg" width="250"/
 <p>
-<p align="rigth">
-  <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/3cerditos/cerdito.jpg" width="250"/
-<p>  
+
   
 ## INSTRUCCIONES
 Es un juego para dos personas (o dos equipos), el lobo y los cerditos.
@@ -32,6 +30,9 @@ Si el lobo cae en la casilla del lago, o se sale de la alfombrilla, tendrá que 
 * Un dado de 6
 * Un escornabot
 * Fichas de materiales (Puedes usar estas tarjetas)[Tarjetas][TA]
+<p align="rigth">
+  <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/3cerditos/cerdito.jpg" width="100"/
+<p>  
 
 ## CRÉDITOS
 Juego inspirado en el juego de mesa Wolfy de Djeco http://www.djeco.com/es/games-toys/games
