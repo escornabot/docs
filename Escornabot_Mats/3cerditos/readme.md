@@ -1,4 +1,4 @@
-# LOS 3 CERDITOS (To Do)
+# LOS 3 CERDITOS 
 <p align="left">
   <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/3cerditos/3cerditos.jpg" width="250"/
 <p>
