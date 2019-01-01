@@ -2,7 +2,9 @@
 <p align="left">
   <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/3cerditos/3cerditos.jpg" width="250"/
 <p>
-  
+<p align="rigth">
+  <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/3cerditos/cerdito.jpg" width="250"/
+<p>  
 ## INSTRUCCIONES
 Es un juego para dos personas (o dos equipos), el lobo y los cerditos.
 
