@@ -28,10 +28,11 @@ Si el lobo cae en la casilla del lago, o se sale de la alfombrilla, tendrá que 
 * Tres fichas de cerdito (puedes usar estos modelos 3D) [Modelos cerditos][TT]
 * Un dado de 6
 * Un escornabot
-* Fichas de materiales (Puedes usar estas tarjetas)
+* Fichas de materiales (Puedes usar estas tarjetas)[Tarjetas][TA]
 
 ## CRÉDITOS
 Juego inspirado en el juego de mesa Wolfy de Djeco http://www.djeco.com/es/games-toys/games
 
 [AT]:3cerditos.pdf
 [TT]:cerdito.stl
+[TA]:tarjetas.pdf
