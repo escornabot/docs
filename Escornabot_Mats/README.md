@@ -171,7 +171,7 @@
  <tr>
     <td><img align="center" width="70" height="70" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/escornaoca/Escornaoca-Alfombra2.jpeg" </td>
     <td>Juego<br/>de la oca</td>
-    <td> --- <br/> 
+    <td> Juego <br/> 
     <td> > --- </td>
     <td> Castellano </td>
     <td>@almupaleo</td>
