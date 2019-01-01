@@ -33,5 +33,5 @@ Si el lobo cae en la casilla del lago, o se sale de la alfombrilla, tendrá que 
 ## CRÉDITOS
 Juego inspirado en el juego de mesa Wolfy de Djeco http://www.djeco.com/es/games-toys/games
 
-[AT]:cerdito.stl
-[TT]: 	tarjetastriangulos.pdf
+[AT]:3cerditoa.pdf
+[TT]:cerdito.stl
