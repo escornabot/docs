@@ -178,4 +178,16 @@
     <td>CC BY-NC-ND</td>
     <td><a href="https://github.com/escornabot/docs/tree/master/Escornabot_Mats/escornaoca">Enlace</a></td>
   </tr> 
+  
+   <tr>
+    <td><img align="center" width="70" height="70" src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/3cerditos/3cerditos.jpg" </td>
+    <td>Juego de<br/>los 3 cerditos</td>
+    <td> Juego <br/> 
+    <td> > 4 </td>
+    <td> Castellano </td>
+    <td>@lobo_tic</td>
+    <td>CC BY-SA</td>
+    <td><a href="https://github.com/escornabot/docs/tree/master/Escornabot_Mats/3cerditos">Enlace</a></td>
+  </tr> 
+  
   </table>
