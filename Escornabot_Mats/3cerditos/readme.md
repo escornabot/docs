@@ -36,6 +36,7 @@ Si el lobo cae en la casilla del lago, o se sale de la alfombrilla, tendrá que 
 <p align="rigth">
   <img src="https://github.com/escornabot/docs/blob/master/Escornabot_Mats/3cerditos/tarjetas.jpg" width="350"/
 <p>
+  
 ## CRÉDITOS
 Juego inspirado en el juego de mesa Wolfy de Djeco http://www.djeco.com/es/games-toys/games
 
